@@ -2,8 +2,8 @@ package MainGrade;
 
 import java.util.Scanner;
 
-import School.School;
-import Student.Student;
+import 학교.School;
+
 
 public class MainGrade {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package School;
+package 학교;
 import Student.Student;
 import Subject.Subject;
 import GradeCalculator.GradeCalculator;

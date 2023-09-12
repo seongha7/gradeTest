@@ -1,4 +1,4 @@
-package ClassClassifier;
+package 학교.학급;
 
 
 public class ClassClassifier {
