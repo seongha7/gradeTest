@@ -1,4 +1,4 @@
-package 학교.학급.학생.과목.등급계산;
+package School.ClassClassifier.Student.Subject.GradeClassifier;
 
 public class GradeClassifier {
     public static String Grade(double average) {

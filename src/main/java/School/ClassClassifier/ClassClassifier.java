@@ -1,4 +1,4 @@
-package 학교.학급;
+package School.ClassClassifier;
 
 
 public class ClassClassifier {

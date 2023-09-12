@@ -1,4 +1,4 @@
-package 학교.학급.학생;
+package School.ClassClassifier.Student;
 
 public class Student {
     String name;

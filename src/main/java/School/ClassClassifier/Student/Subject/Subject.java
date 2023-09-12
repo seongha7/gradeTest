@@ -1,4 +1,4 @@
-package 학교.학급.학생.과목;
+package School.ClassClassifier.Student.Subject;
 
 public class Subject {
     int math;

@@ -1,4 +1,4 @@
-package 학교.학급.학생.과목.점수;
+package School.ClassClassifier.Student.Subject.GradeCalculator;
 
 public class GradeCalculator {
     public static double SumOfGrade(int math, int english, int korean) {

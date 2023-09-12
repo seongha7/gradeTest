@@ -1,9 +1,10 @@
-package 학교;
-import Student.Student;
-import Subject.Subject;
-import GradeCalculator.GradeCalculator;
-import GradeClassifier.GradeClassifier;
-import ClassClassifier.ClassClassifier;
+package School;
+import School.ClassClassifier.Student.Student;
+import School.ClassClassifier.Student.Subject.Subject;
+import School.ClassClassifier.Student.Subject.GradeClassifier.GradeClassifier;
+import School.ClassClassifier.Student.Subject.GradeCalculator.GradeCalculator;
+import School.ClassClassifier.ClassClassifier;
+
 
 public class School {
 

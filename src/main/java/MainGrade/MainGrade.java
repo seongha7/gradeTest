@@ -2,7 +2,7 @@ package MainGrade;
 
 import java.util.Scanner;
 
-import 학교.School;
+import School.School;
 
 
 public class MainGrade {
